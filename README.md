@@ -1,9 +1,9 @@
 # Team-Xeo-FTC-Code-Showcase
 Heya, I'm Sebi, the lead programmer of Team Xeo and I welcome you to our code Showcase!
 
-Disclaimer: Code may not be up-to-date or working without modification as this is an archive of the final code used in the competition and during testing. 
+Disclaimer: Code may not be up-to-date or working without modification as this is an archive of the code that survived developement. 
 
-Code changes fast when you only got 2 hours between matches. 
+I will be updating this repo as soon as we get our hands on older and more complete code to showcase. Development is not always easy to document and sometimes code is lost along the way.
 
 Legend:
 1. Misc and useful code
