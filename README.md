@@ -3,7 +3,7 @@ Heya, I'm Sebi, the lead programmer of Team Xeo and I welcome you to our code Sh
 
 Disclaimer: Code may not be up-to-date or working without modification as this is an archive of the code that survived developement. 
 
-I will be updating this repo as soon as we get our hands on older and more complete code to showcase. Development is not always easy to document and sometimes code is lost along the way.
+I will be updating this repo as soon as we get our hands on older and more complete code to showcase. Development is not always easy to document and sometimes code is lost along the way. Also, not all of our competition code makes it here, its usually the same thing but for the other alliance or tests that were unsuccessful.
 
 Legend:
 1. Misc and useful code
