@@ -7,4 +7,5 @@ Legend:
 3. Ultimate Goal Season Code (2020-2021)
 
 Skystone Season:
+  
   a. FrontRight - This is a simple, short program that simply parked the robot in order to not interfere with the autonomy of the other robots. This program represents the diffrent autonomous paths you need to have ready going into the competition.
