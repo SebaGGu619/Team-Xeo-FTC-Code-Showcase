@@ -1,6 +1,8 @@
 # Team-Xeo-FTC-Code-Showcase
 Heya, I'm Sebi, the lead programmer of Team Xeo and I welcome you to our code Showcase!
 
+Disclaimer: Code may not be up-to-date or working without modification as this is an archive of the final code used in the competition and during testing. Code changes fast when you only got 2 hours between matches. 
+
 Legend:
 1. Misc and useful code
 2. Skystone Season Code (2019-2020)
