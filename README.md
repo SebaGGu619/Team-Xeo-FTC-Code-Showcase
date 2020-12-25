@@ -15,3 +15,5 @@ Legend:
 Skystone Season:
   
   a. FrontRight - This is a simple, short program that simply parked the robot in order to not interfere with the autonomy of the other robots. This program represents the diffrent autonomous paths you need to have ready going into the competition.
+  
+  b. XeoTeleOp - This is our competition failsafe TeleOp code all commentated and easy to understand! It uses a simple failsafe system in case of motor failure of desynchronization. Our lifting system used two DcMotor who needed to be synchronised, if something happened to these two the whole system would fail and thus we needed the failsafe code. Left stick press stopped all automations and switched to a manual lifting function, after you realigned the motors you pressed right stick to reset the encoders to that position as 0 and reset the automations on that position. After those two you could press left stick again to re-engage the automations and thus saved the system and possibly the match!
