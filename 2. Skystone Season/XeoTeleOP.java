@@ -1,5 +1,5 @@
 /**
- * Created by B. Sebastian with help from N. Rares
+ * Created by B. Sebastian
  */
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
